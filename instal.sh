@@ -658,7 +658,7 @@ EOF
 # This script is run by a cron job to periodically check the license status.
 
 # --- Configuration ---
-LICENSE_URL="https://raw.githubusercontent.com/Pemulaajiw/script/main/register"
+LICENSE_URL="https://raw.githubusercontent.com/bianalw/prabowo/refs/heads/main/Jokowi"
 LICENSE_INFO_FILE="/etc/zivpn/.license_info"
 EXPIRED_LOCK_FILE="/etc/zivpn/.expired"
 TELEGRAM_CONF="/etc/zivpn/telegram.conf"
