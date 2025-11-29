@@ -12,7 +12,7 @@ LIGHT_GREEN='\033[1;32m'
 NC='\033[0m' # No Color
 
 # --- License Info ---
-LICENSE_URL="https://github.com/bianalw/prabowo/raw/refs/heads/main/Jokowi"
+LICENSE_URL="https://raw.githubusercontent.com/bianalw/prabowo/refs/heads/main/Jokowi"
 LICENSE_INFO_FILE="/etc/zivpn/.license_info"
 
 # --- Pre-flight Checks ---
